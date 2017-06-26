@@ -7,7 +7,7 @@ body {
     font-family: "Roboto Condensed";
     margin: 0;
     width: 510px !important;
-    min-height: 200px;
+    min-height: 174px;
     background-color: #fbfbfb;
         overflow-y: auto;
 }
